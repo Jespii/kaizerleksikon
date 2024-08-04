@@ -76,3 +76,6 @@ h1, h2, p{
     width: 300px;
     text-align: center;
 }
+iframe{
+    padding: 10px;
+}
