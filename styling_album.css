@@ -51,7 +51,7 @@ ul{
 }
 .coverbilde{
     width: 400px;
-padding: 30px;
+    padding: 30px;
 }
 .table{
    line-height: 150%; 
@@ -84,4 +84,7 @@ iframe{
 .container{
     display: flex;
     flex-wrap: wrap;
+}
+p{
+    padding: 30px;
 }
