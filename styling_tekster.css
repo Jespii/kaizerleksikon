@@ -11,13 +11,9 @@ main{
     margin-left: 20px;
     margin-right: 20px;
 }
-h1, h3, p{
+h1, h2, h3, p{
     text-align: center;
     color: white;
-}
-h2{
-    text-align: center;
-    color:rgb(172, 141, 40)
 }
 .navbar ul{
     list-style-type: none;
