@@ -82,7 +82,7 @@ iframe{
 .container{
     display: flex;
     flex-wrap: wrap;
-    padding-left: 30px;
+    margin: 15px;
 }
 p{
     width: 800px;
