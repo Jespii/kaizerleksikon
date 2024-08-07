@@ -85,3 +85,7 @@ iframe{
     display: flex;
     flex-wrap: wrap;
 }
+p{
+    margin:30px;
+    padding:30px;
+}
