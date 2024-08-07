@@ -78,6 +78,8 @@ h1, h2, p{
 }
 iframe{
     padding: 10px;
+    width: 560;
+    height: 315;
 }
 
 @media only screen and (max-width: 600px) {
@@ -88,8 +90,8 @@ iframe{
     }
 
     .container{
-        margin-left: 0%;
-        margin-right: 0%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
     iframe{
