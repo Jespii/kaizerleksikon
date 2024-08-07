@@ -75,16 +75,11 @@ iframe{
 .tekst {
     width: 400px;
     font-size: 12px;
-    padding-left: 30px;
 }
 .album_beskrivelse{
     width: 400px;
-    padding-left: 30px;
 }
 .container{
     display: flex;
     flex-wrap: wrap;
-}
-p{
-    margin: 10px;
 }
