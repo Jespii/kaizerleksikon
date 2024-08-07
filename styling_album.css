@@ -70,7 +70,7 @@ iframe{
 }
 #merknapp {
     display: block;
-    margin-left:30px;
+    margin: 15px;
 }
 .tekst {
     width: 400px;
